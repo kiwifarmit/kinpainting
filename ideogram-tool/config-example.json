@@ -1,0 +1,13 @@
+{
+    "api_key": "your-api-key-here",
+    "prompt": "PUT HERE YOUR PROMPT",
+    "num_images": 100,
+    "style_type": "REALISTIC",
+    "magic_prompt_option": "ON",
+    "output_path": ".\\output",
+    "base_image_name": "generate_image",
+    "aspect_ratio": "ASPECT_16_9",
+    "number_padding": 5,
+    "number_separator": "_",
+    "start_number": 101
+}
